@@ -1,10 +1,5 @@
 # 🚂 Railway Reservation System
-  ____       _      ___   _      __        __     _     __   __       ____    _____   ____    _____   ____   __     __     _      _____   ___    ___    _   _
- |  _ \     / \    |_ _| | |     \ \      / /    / \    \ \ / /      |  _ \  | ____| / ___|  | ____| |  _ \  \ \   / /    / \    |_   _| |_ _|  / _ \  | \ | | 
- | |_) |   / _ \    | |  | |      \ \ /\ / /    / _ \    \ V /       | |_) | |  _|   \___ \  |  _|   | |_) |  \ \ / /    / _ \     | |    | |  | | | | |  \| |
- |  _ <   / ___ \   | |  | |___    \ V  V /    / ___ \    | |        |  _ <  | |___   ___) | | |___  |  _ <    \ V /    / ___ \    | |    | |  | |_| | | |\  |
- |_| \_\ /_/   \_\ |___| |_____|    \_/\_/    /_/   \_\   |_|        |_| \_\ |_____| |____/  |_____| |_| \_\    \_/    /_/   \_\   |_|   |___|  \___/  |_| \_|
- 
+
 A command-line based Railway Reservation System built with Python and MySQL. This project was developed as part of a Computer Science project at JIIT Noida.
 
 ## 📋 Features
